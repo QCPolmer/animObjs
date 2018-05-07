@@ -1,6 +1,7 @@
 # animObjs
 Here is an animation system I rigged together because wanted to animate mist easily. <br />
 Incidentally, I over-engineered it, and now it is much more powerful than I thought. <br />
+(Tested in Adventure Game Studio 3.3)<br />
  <br /> <br />
 HOW TO USE: <br /> <br />
 Put one or more of these functions in a repeated_execute() function: <br />
