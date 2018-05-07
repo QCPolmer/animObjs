@@ -30,8 +30,8 @@ animObjs( animObjs_Objs( object1.ID), <br />
             animObjs_SXYs( )); <br />
              <br />
 LIMITATIONS: <br /> <br />
----9 objects can be animated to go on a route PER FUNCTION. <br /> 
----12 Keyframes per route PER FUNCTION. (multiple functions can be used. ) <br />
+---9 objects can be animated to go on a route PER FUNCTION. (multiple functions can be used. ) <br /> 
+---12 Keyframes per route PER FUNCTION.  <br />
 ----This ONLY works for objects, and the same EXACT position can't be used twice(one pixel off works). <br /> 
 That includes Pause frames(which are warped too). ) <br />
  <br />
